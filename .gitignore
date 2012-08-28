@@ -1,4 +1,19 @@
+<<<<<<< HEAD
 *~
 *.out
 *.swp
 *.DS_Store
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+>>>>>>> 1cea79ce81915365ce79101dd78d503c9c74424c
